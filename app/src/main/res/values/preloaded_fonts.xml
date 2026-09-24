@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/abhaya_libre</item>
+        <item>@font/agbalumo</item>
+        <item>@font/alice</item>
+        <item>@font/alkalami</item>
+        <item>@font/allison</item>
+        <item>@font/amiri_quran</item>
+        <item>@font/charm</item>
+    </array>
+</resources>
